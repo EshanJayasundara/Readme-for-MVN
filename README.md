@@ -10,7 +10,7 @@
    ```
 4. Install Maven ( if you dont know, how to install mevan; then watch this [Link Here](https://youtu.be/WASIyomqarc))
 5. Run following command `mvn spring-boot:run` in the terminal inside project root directory.
-6. Install Postman and send following requsts ( if you never useed postman watch this [Link Here](https://youtu.be/CLG0ha_a0q8) )
+6. Install Postman and send following requsts to test ( if you never useed postman watch this [Link Here](https://youtu.be/CLG0ha_a0q8) )
    ```
    POST => http://localhost:8080/api/v1/item/create
    ```

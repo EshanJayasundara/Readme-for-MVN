@@ -1,4 +1,4 @@
-# How to run the application
+## How to run the application
 1. Install XAMPP ( download it from [Link here](https://www.apachefriends.org) )
 2. Open xampp control panel and start `Apache` and `mySQL` modules. Also pay attention to the 'port' that the `mySQL` runs on.
 3. Change the following properties in `application.properties` file such that it is suitable for your database configuration
